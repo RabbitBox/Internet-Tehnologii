@@ -1,0 +1,42 @@
+﻿@model FirstDrink.Models.Drink
+@{
+    /**/
+
+    ViewBag.Title = "AddNewDrink";
+}
+
+<h2>Add New Drink</h2>
+
+@using (Html.BeginForm("AddNewDrinkPost", "Drinks"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.name)
+        @Html.TextBoxFor(m => m.name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.name)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.img)
+        @Html.TextBoxFor(m => m.img, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.img)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.rating)
+        @Html.TextBoxFor(m => m.rating, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.rating)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.ingredients)
+        @Html.TextBoxFor(m => m.ingredients, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.ingredients)
+    </div>
+
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.isAlcoholic) Is alcoholic?
+        </label>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+}

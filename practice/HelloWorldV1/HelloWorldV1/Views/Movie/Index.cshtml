@@ -1,0 +1,32 @@
+﻿@model IEnumerable<HelloWorldV1.Models.Movie>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <b> Movies List:</b>
+        <br />
+        <table border="1">
+            <tr>
+                <th>Rank</th>
+                <th>Title</th>
+                <th>Year</th>
+            </tr>
+            @foreach (var movie in Model)
+            {
+        <tr>
+            <td>@movie.Rank</td>
+            <td>@movie.Title</td>
+            <td>@movie.Year</td>
+        </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

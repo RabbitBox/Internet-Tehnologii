@@ -1,0 +1,18 @@
+﻿@model List<DrinkAndGo1.Models.Drink>
+
+
+@Html.Partial("Carousel")
+
+<h2> Prefered Drink of the week</h2>
+<h3> Clients preferences - just for you!</h3>
+
+
+<div class="row">
+
+    @foreach(var d in Model)
+    {
+        @Html.Partial("_ShowDrinks", d)
+
+    }
+
+</div>

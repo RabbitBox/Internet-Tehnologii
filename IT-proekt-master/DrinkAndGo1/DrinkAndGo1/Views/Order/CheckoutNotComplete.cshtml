@@ -1,0 +1,15 @@
+﻿
+<h1>
+    @ViewBag.CheckoutCompleteMessage
+</h1>
+<div class="btn-group">
+    <a class="btn-group">
+        <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+            Add drinks <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+            <li><a>@Html.ActionLink("Alcoholic", "ShowAlcoholicDrinks", "Home")</a></li>
+            <li><a>@Html.ActionLink("Non Alcoholic", "ShowNonAlcoholicDrinks", "Home")</li>
+        </ul>
+    </a>
+</div>

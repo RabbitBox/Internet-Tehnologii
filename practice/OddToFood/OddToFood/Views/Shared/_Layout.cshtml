@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title - My ASP.NET MVC Application</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+    <body>
+        <header>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <img src="data:image/jpeg;base64,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" style="width:400px; height:120px" />
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        @Html.Partial("_LoginPartial")
+                    </section>
+                    <nav>
+                        <ul id="menu">
+                            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                            <li>@Html.ActionLink("About", "About", "Home")</li>
+                            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <div id="body">
+            @RenderSection("featured", required: false)
+            <section class="content-wrapper main-content clear-fix">
+                @RenderBody()
+            </section>
+        </div>
+      
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; @DateTime.Now.Year - My ASP.NET MVC Application</p>
+                </div>
+            </div>
+        </footer>
+        
+        @Scripts.Render("~/bundles/jquery")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

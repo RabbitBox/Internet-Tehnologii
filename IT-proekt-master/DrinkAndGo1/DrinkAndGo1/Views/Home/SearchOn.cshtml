@@ -1,0 +1,27 @@
+﻿@using DrinkAndGo1.ViewModels
+@model DrinkListViewModel
+
+@{
+    ViewBag.Title = "SearchOn";
+}
+
+
+
+    <h3 > About @Model.Drinks.Count() results</h3>
+<hr />
+
+
+
+<div class="row">
+    @foreach (var drink in Model.Drinks)
+    {
+        @Html.Partial("_ShowDrinks", drink)
+    }
+
+</div>
+
+<div class="btn btn-group">
+    <a>@Html.ActionLink("Home", "Index", "Home", null, new { @class = "btn btn-primary" })</a>
+    <a>@Html.ActionLink("Show all drinks", "ShowAllDrinks", "Home", null, new { @class = "btn btn-default" })</a>
+    </div>
+

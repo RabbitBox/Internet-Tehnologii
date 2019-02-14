@@ -1,0 +1,21 @@
+﻿@using DrinkAndGo1.ViewModels
+@model DrinkListViewModel
+
+@{
+    ViewBag.Title = "ShowAllDrinks";
+}
+
+<div class="page-header">
+
+          <h1 class="text-primary">All drinks in store</h1>
+   
+</div>
+
+    <div class="row">
+        @foreach (var drink in Model.Drinks)
+        {
+            @Html.Partial("_ShowDrinks", drink)
+        }
+        
+</div>
+

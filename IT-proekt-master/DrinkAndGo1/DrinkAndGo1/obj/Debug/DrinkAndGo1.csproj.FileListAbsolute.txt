@@ -1,0 +1,268 @@
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\ApplicationInsights.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\csc.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\vbc.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\DrinkAndGo1.dll.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\DrinkAndGo1.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\DrinkAndGo1.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Antlr3.Runtime.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.SqlServer.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.Web.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Newtonsoft.Json.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Owin.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Helpers.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Mvc.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Optimization.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Razor.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\WebGrease.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.Web.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Helpers.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Mvc.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Optimization.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Razor.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Antlr3.Runtime.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Newtonsoft.Json.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.SqlServer.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.csprojResolveAssemblyReference.cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.dll
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.InitialCreate.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.csproj.GenerateResource.Cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.shoppingCartItemm.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.Orders.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.addValidationInOrder.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.AddValidationInDrink.resources
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\ApplicationInsights.config
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\csc.exe
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\vbc.exe
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\DrinkAndGo1.dll.config
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\DrinkAndGo1.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\DrinkAndGo1.pdb
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.Web.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Owin.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Helpers.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Mvc.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Optimization.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Razor.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\WebGrease.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.Web.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Helpers.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Mvc.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Optimization.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Razor.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.InitialCreate.resources
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.shoppingCartItemm.resources
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.Orders.resources
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.addValidationInOrder.resources
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.AddValidationInDrink.resources
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.dll
+C:\Users\Aleksandar\Desktop\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.pdb
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\ApplicationInsights.config
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\csc.exe
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\vbc.exe
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\DrinkAndGo1.dll.config
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\DrinkAndGo1.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\DrinkAndGo1.pdb
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Antlr3.Runtime.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.SqlServer.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.Web.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Newtonsoft.Json.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Owin.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Helpers.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Mvc.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Optimization.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Razor.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\WebGrease.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.Web.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Helpers.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Mvc.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Optimization.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.Razor.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Antlr3.Runtime.pdb
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Newtonsoft.Json.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\EntityFramework.SqlServer.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.InitialCreate.resources
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.shoppingCartItemm.resources
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.Orders.resources
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.addValidationInOrder.resources
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.Migrations.AddValidationInDrink.resources
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.dll
+C:\Users\Aleksandar\Desktop\FINKI o!o\Internet Tehnologii\IT-proekt-master\DrinkAndGo1\DrinkAndGo1\obj\Debug\DrinkAndGo1.pdb

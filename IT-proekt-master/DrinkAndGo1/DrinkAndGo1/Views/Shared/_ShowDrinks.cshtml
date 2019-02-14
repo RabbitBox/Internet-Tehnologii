@@ -1,0 +1,24 @@
+﻿@model DrinkAndGo1.Models.Drink
+
+
+<div class="col-sm-4 col-lg-4 col-md-4">
+            <div class="thumbnail">
+                <img src="@Model.ImageThumbnailUrl" alt="" style="width:350px; height:230px" />
+                <div class="caption">
+                    <h3 class="pull-right">$@Model.Price.ToString()</h3>
+                    <h3>
+                        <a href="/Home/Details/@Model.DrinkId">@Model.Name</a>
+                    </h3>
+                    <p>@Model.ShortDescription</p>
+                </div>
+
+  
+                <div class="addToCart text-right">
+                    <p class="button ">
+                        <a>@Html.ActionLink("Add to cart", "AddToShoppingCart", "ShoppingCart", new { id = Model.DrinkId }, new { @class = "btn btn-success" })</a>
+                    </p>
+                </div>
+              
+            </div>
+   
+       </div>

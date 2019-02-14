@@ -1,0 +1,59 @@
+﻿@model List<lab3.Models.FriendModel>
+@{
+    ViewBag.Title = "ShowAllFriends";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h2>ShowAllFriends</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Image
+            </th>
+            <th>
+                Friend ID
+            </th>
+            <th>
+                Friend Name
+            </th>
+            <th>
+                Place
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+            foreach (var f in Model)
+            {
+                f.id = i;
+            <tr>
+                <td>
+                    <img src="@f.imgURL" style="height:130px" width="130px" />
+                </td>
+                <td>
+                    @f.Friend_id
+                </td>
+                <td>
+                    @f.name
+                </td>
+                <td>
+                    @f.place
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = f.id }, new { @class = "form-control" })
+                    @Html.ActionLink("Delete", "Delete", new { id = f.id }, new {@class = "form-control" })
+                </td>
+            </tr>
+                i++;
+            }
+
+        }
+    </tbody>
+</table>

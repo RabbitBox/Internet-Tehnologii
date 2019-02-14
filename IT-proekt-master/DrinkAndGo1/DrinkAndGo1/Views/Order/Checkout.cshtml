@@ -1,0 +1,93 @@
+﻿@using DrinkAndGo1.Models
+@model Order
+
+<div class="row orderForm ">
+    <h3 class="text-center">You are just one step away from ordering your drinks.</h3>
+
+  
+     @using (Html.BeginForm("Checkout", "Order", FormMethod.Post, new { @class = "form-horizontal" }))
+     {
+        <div class="form-group">
+            @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.LastName, new { @class = "form-control" })
+                <span>@Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-dangerous" })</span>
+            </div>
+        </div>
+       
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.FirstName, new { @class = "form-control" })
+                <span>@Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-dangerous" })</span>
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AddressLine1, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.AddressLine1, new { @class = "form-control" })
+                <span>@Html.ValidationMessageFor(model => model.AddressLine1, "", new { @class = "text-dangerous" })</span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AddressLine2, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.AddressLine2, new { @class = "form-control" })
+                <span>@Html.ValidationMessageFor(model => model.AddressLine2, "", new { @class = "text-dangerous" })</span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ZipCode, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.ZipCode, new { @class = "form-control" })
+                <span>@Html.ValidationMessageFor(model => model.ZipCode, "", new { @class = "text-dangerous" })</span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.State, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.State, new { @class = "form-control" })
+                <span>@Html.ValidationMessageFor(model => model.State, "", new { @class = "text-dangerous" })</span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Country, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.Country, new { @class = "form-control" })
+                <span>@Html.ValidationMessageFor(model => model.Country, "", new { @class = "text-dangerous" }) </span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PhoneNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.PhoneNumber, new { @class = "form-control" })
+                <span>@Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-dangerous" }) </span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+                <span>@Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-dangerous" }) </span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="btn-group col-md-offset-2 col-md-8">
+                <input class="btn btn-success" type="submit" value="Complete order" />
+                @*<input class="btn btn-default" type="submit" value="Return " />*@
+            </div>
+        </div>
+
+
+     }
+</div>

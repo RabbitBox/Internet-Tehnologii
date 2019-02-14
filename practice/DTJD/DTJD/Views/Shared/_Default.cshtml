@@ -1,0 +1,11 @@
+﻿<li class="dropdown">
+    <a asp-controller="Drink"
+       asp-action="Index"
+       class="dropdown-toggle" data-toggle="dropdown">Drinks<b class="caret"></b></a>
+    <ul class="dropdown-menu">
+        <li>@Html.ActionLink("Alcoholic", "ShowAllDrinks", "Home", new { str = "Alcoholic" }, null)</li>
+        <li>@Html.ActionLink("Non-alcoholic", "ShowAllDrinks", "Home", new { str = "Non-Alcoholic" }, null)</li>
+        <hr />
+        <li>@Html.ActionLink("View all drinks", "ShowAllDrinks", "Home", new { str = "All Drinks" }, null)</li>
+    </ul>
+</li>

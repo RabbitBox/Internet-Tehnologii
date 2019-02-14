@@ -1,0 +1,10 @@
+﻿<li class="dropdown">
+    <button type="button" class="btn btn-dark btn-sm navbar-btn" data-toggle="dropdown"><b class="text-center">...</b></button>
+    <ul class="dropdown-menu">
+        <li>@Html.ActionLink("Page Settings", "Index", "Drinks")</li>
+        @if (User.IsInRole("Admin"))
+        {
+        <li>@Html.ActionLink("Rolеs", "AddUserToRole", "Account")</li>
+        }
+    </ul>
+</li>

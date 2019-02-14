@@ -1,0 +1,30 @@
+﻿@model DTJD.Models.Drink
+
+@{
+    ViewBag.Title = "DrinkDetails";
+}
+
+<div class="container marginTop">
+    <div class="row">
+        <div class="card">
+            <div class="text-center view overlay hm-white-slight">
+                <img src="@Model.ImageUrl" style="width:1100px; height:500px"  img-fluid" alt="">
+                <a href="#">
+                    <div class="mask waves-effect waves-light"></div>
+                </a>
+            </div>
+            <div class="card-block">
+                <!--Title-->
+                <h4 class="card-title">@Model.Name</h4>
+                <!--Text-->
+                <p class="card-text">@Model.LongDescription.</p>
+                <p class="btn btn-group pull-right">
+                    <a>@Html.ActionLink("Show all drinks","ShowAllDrinks","Home",null, new { @class ="btn btn-default"})</a>
+                    <a class="btn btn-success" id="cartButton" asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-drinkId="@Model.DrinkId">
+                        Add @Model.Name to cart
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

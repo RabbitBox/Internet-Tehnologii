@@ -1,0 +1,12 @@
+﻿@model DTJD.Models.CategoryDrinkModel
+@{
+    ViewBag.Title = "ShowAllDrinks";
+}
+<h2>Show all drinks in @Model.currentCategory</h2>
+
+<div class="row">
+    @foreach (var drink in Model.drinks)
+    {
+        @Html.Partial("_ShowDrinks", drink)
+    }
+</div>

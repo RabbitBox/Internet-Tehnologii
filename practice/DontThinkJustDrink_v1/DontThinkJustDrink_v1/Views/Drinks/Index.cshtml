@@ -1,0 +1,29 @@
+﻿@model IEnumerable<DontThinkJustDrink_v1.Models.Drink>
+
+<div>
+    <h2>All drinks are shown here</h2>
+</div>
+
+<h2>
+    
+</h2>
+
+@{ 
+
+    foreach(var drink in Model)
+    {
+        <div class="col-sm-4 col-lg-4 col-md-4">
+            <div class="img-thumbnail">
+                <img src="@drink.ImageTumbnailUrl" alt="" />
+                <div class="d-block">
+                    <h3 class="text-right">@drink.Price.ToString("c")</h3>
+
+                    <h3><a>@drink.Name</a></h3>
+                    <p>@drink.ShortDescription</p>
+                </div>
+
+            </div>
+
+        </div>
+    }
+}

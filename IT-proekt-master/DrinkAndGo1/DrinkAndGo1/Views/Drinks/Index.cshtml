@@ -1,0 +1,70 @@
+﻿@model IEnumerable<DrinkAndGo1.Models.Drink>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>All drinks</h2>
+
+<p>
+@if (User.IsInRole("Admin"))
+{
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-success" })
+}
+</p>
+<table class="table" id="drinksTable">
+    <thead>
+        <tr>
+            <th>
+                <b>Item</b>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category.CategoryName)
+            </th>
+            <th><b>Buttons</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+
+                    <div class="thumbnail">
+                        <img src="@item.ImageThumbnailUrl" style="width:390px; height:250px" />
+                        <div class="caption">
+                            <h3 class="pull-right">@item.Price.ToString("c")</h3>
+                            <h3><a>@Html.ActionLink(item.Name, "Details", "Home", new { id = item.DrinkId }, null)</a></h3>
+                            <p>@item.ShortDescription</p>
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.CategoryName)
+
+                </td>
+                <td>
+                    @if (User.IsInRole("Admin") || User.IsInRole("Editor"))
+                    {
+                    @Html.ActionLink(" Edit ", "Edit", new { id = item.DrinkId }, new { @class = "btn btn-warning" })
+                    }
+                    <br />
+                    <br />
+                    @if (User.IsInRole("Admin"))
+                    {
+                    @Html.ActionLink("Delete", "Delete", new { id = item.DrinkId }, new { @class = "btn btn-danger" })
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $("#drinksTable").DataTable();
+        });
+    </script>
+
+}

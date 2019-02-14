@@ -1,0 +1,16 @@
+﻿
+@model List<DrinkAndGo1.Models.Drink>
+
+    <div class="page-header">
+
+        <h1 class="text-primary">Non-Alcoholic drinks in store</h1>
+
+    </div>
+
+    <div class="row">
+        @foreach (var drink in Model)
+        {
+            @Html.Partial("_ShowDrinks", drink)
+        }
+
+    </div>

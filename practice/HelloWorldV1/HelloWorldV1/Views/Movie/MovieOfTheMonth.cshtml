@@ -1,0 +1,24 @@
+﻿
+@{
+   // Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MovieOfTheMonth</title>
+</head>
+<body>
+    <div>
+        @{
+
+        var movieOfTheMonth = new { Rank = 1, Title = "The Shawshank Redemption", Year = 1994 };
+
+        }
+
+        <b>Movie of the month: @movieOfTheMonth.Title </b>
+    </div>
+</body>
+</html>

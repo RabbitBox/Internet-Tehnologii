@@ -1,0 +1,27 @@
+﻿@model FirstDrink.Models.DrinksAndConutries
+@{
+    ViewBag.Title = "ShowDrink";
+}
+
+<h3><b>Drink:</b> @Model.drink.name</h3>
+<h4><b>Rating:</b> @Model.drink.rating</h4>
+<h4><b>Ingredients:</b> @Model.drink.ingredients</h4>
+
+
+<h4><b>Is alcoholic:</b> @Html.CheckBoxFor(m => m.drink.isAlcoholic)</h4>  <!--CHECKBOX KAKO DA NARAVES-->
+
+<h4><b>Countries:</b></h4>
+
+<ul>
+    @{ 
+        int i = 0;
+        foreach(var c in Model.countriesDrinks)
+        {
+    <li>
+        @Html.ActionLink(c.name, "ShowCountry", new { id = i })
+        @*<a href="ShowClient/@i">@c.Name</a>*@
+    </li>
+            i++;
+        }
+    }
+</ul>
